@@ -821,3 +821,52 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.13-20.14.08:276][194]LogDirectoryWatcher: A directory notification failed for 'D:/UnrealProjects/BPShotter115/MortisProject115/Content/Collections/' because it could not be accessed. Aborting watch request...
 [2020.01.13-20.14.08:276][194]LogDirectoryWatcher: A directory notification failed for 'D:/UnrealProjects/BPShotter115/MortisProject115/Content/Developers/FelipeGasca/Collections/' because it could not be accessed. Aborting watch request...
 [2020.01.13-20.14.08:618][195]LogDirectoryWatcher: A directory notification failed for 'D:/UnrealProjects/BPShotter115/MortisProject115/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2020.01.13-20.19.41:310][123]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={65BF1593-46AC-A64A-6BB3-08814F30FF42}
+[2020.01.13-20.21.31:399][451]LogSlate: Took 0.000789 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.13-20.21.40:544][478]LogUObjectHash: Compacting FUObjectHashTables data took   6.50ms
+[2020.01.13-20.21.40:545][478]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.107
+[2020.01.13-20.26.45:338][483]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{5151a6fb-c691-426b-861f-fe994d3b75f8} was removed. Shutting down audio device.
+[2020.01.13-20.26.45:338][483]LogInit: No audio devices found!
+[2020.01.13-20.31.40:928][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2020.01.13-20.31.40:929][362]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.024
+[2020.01.13-20.41.41:562][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2020.01.13-20.41.41:562][316]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.037
+[2020.01.13-20.51.42:144][107]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.01.13-20.51.42:145][107]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.024
+[2020.01.13-21.01.42:762][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.01.13-21.01.42:763][898]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.024
+[2020.01.13-21.11.44:826][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.01.13-21.11.44:826][689]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.053
+[2020.01.13-21.21.45:532][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.01.13-21.21.45:533][481]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.051
+[2020.01.13-21.31.45:937][273]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.01.13-21.31.45:937][273]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.022
+[2020.01.13-21.41.46:705][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.01.13-21.41.46:705][ 65]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.037
+[2020.01.13-21.51.47:374][856]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.01.13-21.51.47:374][856]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.032
+[2020.01.13-22.01.47:913][648]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.01.13-22.01.47:914][648]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.022
+[2020.01.13-22.11.48:577][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.01.13-22.11.48:577][437]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.029
+[2020.01.13-22.21.49:145][227]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.01.13-22.21.49:145][227]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.041
+[2020.01.13-22.31.49:535][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.01.13-22.31.49:535][ 18]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.032
+[2020.01.13-22.41.50:134][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.01.13-22.41.50:134][809]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.034
+[2020.01.13-22.51.50:507][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2020.01.13-22.51.50:507][599]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.034
+[2020.01.13-23.01.51:124][390]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.01.13-23.01.51:124][390]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.039
+[2020.01.13-23.11.51:688][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.01.13-23.11.51:688][181]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.038
+[2020.01.13-23.21.52:174][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.01.13-23.21.52:174][973]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.029
+[2020.01.13-23.31.52:842][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.01.13-23.31.52:842][765]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.025
+[2020.01.13-23.33.05:510][982]LogInit: XAudio2 using 'HeadPhone/Digital Output (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.13-23.41.53:556][555]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2020.01.13-23.41.53:556][555]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.034
+[2020.01.13-23.51.54:114][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.01.13-23.51.54:114][533]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.024
